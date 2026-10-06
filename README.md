@@ -50,7 +50,7 @@ Interactive **Power BI** dashboards analysing large-scale COVID-19 datasets to s
 End-to-end, database-driven web applications built with **Laravel**.
 - **[UMK PG Tracker](https://github.com/eydditt/umk-pg-tracker)** — postgraduate management system with dashboards and PDF reports, deployed for a real supervisor at Universiti Malaysia Kelantan
 - **[JejakPeribahasa](https://github.com/eydditt/jejak-peribahasa-web)** — An interactive Malay Proverb learning platform featuring a community forum, quizzes, and role-based access control.
-- **Tools:** PHP, Laravel, Filament, MySQL, Chart.js, Docker
+- **Tools:** PHP, Laravel, Filament, MySQL, Chart.js, Docker, HTML/CSS, Bootstrap
 
 ---
 
@@ -78,7 +78,9 @@ End-to-end, database-driven web applications built with **Laravel**.
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aidit-amyrul)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nikaidit123@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&fs=1&to=nikaidit123@gmail.com)
+
+**📧 nikaidit123@gmail.com**
 
 ---
 
