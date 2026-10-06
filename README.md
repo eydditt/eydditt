@@ -49,6 +49,7 @@ Interactive **Power BI** dashboards analysing large-scale COVID-19 datasets to s
 ### 🌐 Full-Stack Web Systems
 End-to-end, database-driven web applications built with **Laravel**.
 - **[UMK PG Tracker](https://github.com/eydditt/umk-pg-tracker)** — postgraduate management system with dashboards and PDF reports, deployed for a real supervisor at Universiti Malaysia Kelantan
+- **[JejakPeribahasa](https://github.com/eydditt/jejak-peribahasa-web)** — An interactive Malay Proverb learning platform featuring a community forum, quizzes, and role-based access control.
 - **Tools:** PHP, Laravel, Filament, MySQL, Chart.js, Docker
 
 ---
