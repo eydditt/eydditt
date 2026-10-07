@@ -84,8 +84,5 @@ End-to-end, database-driven web applications built with **Laravel**.
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eydditt&show_icons=true&theme=default&hide_border=true" height="150" />
-</p>
 
 <p align="center">⭐ <i>Thanks for stopping by!</i></p>
